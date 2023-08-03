@@ -1,0 +1,7 @@
+version: '3'
+services:
+  core_api:
+    build: .
+    container_name: "spreadsheet-to-json"
+    ports:
+      - "8000:8000"
