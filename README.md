@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Spreadsheet to JSON Converter
 This is a Python script that provides a FastAPI-based web service to convert data from a Google Sheets spreadsheet to a JSON format. The script uses the FastAPI framework for creating the web application and the Requests library for handling HTTP requests to Google Sheets.
@@ -42,3 +43,6 @@ To run the script,you'll need the following:
 
 ## Note
 #### The google spreadsheet must be accessible to everyone.It shouldnt be restricted.
+=======
+# Proshort2
+>>>>>>> 71ea96871b7b7d685cd1e8fad9f24209fb0f1c23
